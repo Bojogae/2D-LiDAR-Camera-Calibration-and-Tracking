@@ -33,5 +33,5 @@ DBSCAN 클러스터링과 확장 칼만 필터를 활용하여 2D LiDAR와 카�
 ![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/1.png)
 ![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/2.png)
 ![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/3.png)
-![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/4.png)
-![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/5.png)
+![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/4.gif)
+![캘리브레이션 결과](https://github.com/Bojogae/Materials/blob/main/2D-LiDAR-Camera-Calibration/5.gif)
