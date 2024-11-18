@@ -1,0 +1,8 @@
+# 카메라 캘리브레이션에 필요한 상수들
+# 각 셀의 가로, 세로 길이 (mm)
+s_width: 36
+s_height: 36
+rows: 6
+cols: 9
+capture_mode: True
+capture_max_count: 30
